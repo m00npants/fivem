@@ -1,0 +1,23 @@
+{
+  "detected_title": "Shopkeeper Alerted",
+  "detected_msg": "%s detected your %s attempt!",
+  "cooldown_title": "Too Soon",
+  "cooldown_msg": "You need to wait before trying again.",
+  "lifting_label": "Lifting",
+  "success_title": "Lift Successful",
+  "success_msg": "You pocketed %s x%d.",
+  "error_title": "No Loot",
+  "error_msg": "You failed to secure any item.",
+  "target_label": "Shoplift (%s)",
+  "police_alert": "Silent alarm: shoplifting at %s [%s]",
+  "cooldown_reset_title": "Store Cooldown Reset",
+  "cooldown_reset_msg": "Cooldown cleared for %s.",
+  "police_reset_label": "Reset store cooldown",
+  "access_denied_title": "Access Denied",
+  "access_denied_msg": "You are not authorized to reset this store."
+  ,"notification_title": "Notification"
+  ,"alert_header": "Alert"
+  ,"alert_confirm": "Yes"
+  ,"alert_cancel": "No"
+  ,"dispatch_title": "Distress Call"
+}
