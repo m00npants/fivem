@@ -1,0 +1,1 @@
+This shopliftingscript is for qbcore,qbox and esx servers, basically just plug and play.
